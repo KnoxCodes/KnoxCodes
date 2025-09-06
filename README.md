@@ -3,9 +3,8 @@
 <div align="center">
 <img hight="400" width="1200" alt="GIF" align="center" src="assets/PixeLɑnd ◇.gif">
 </div>
-
-</br>
 ---
+</br>
 </br>
 
 ## About Me
