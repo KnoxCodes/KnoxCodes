@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Knox
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/KnoxCodes/KnoxCodes/master/assets/download.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="assets/PixeLɑnd ◇.gif">
 </div>
 
 </br>
