@@ -6,7 +6,6 @@
 
 <br/>
 <hr/>
-<br/>
 
 ## 🌌 Who am I?  
 
@@ -31,7 +30,6 @@ I’m a **3rd-year undergraduate student** who loves programming and the thrill 
 
 <br/>
 <hr/>
-<br/>
 
 # 💻 Tech Stack
 
@@ -89,8 +87,6 @@ I’m a **3rd-year undergraduate student** who loves programming and the thrill 
 
 <br/>
 <hr/>
-<br/>
-
 
 # 📊 GitHub Stats:
 
@@ -111,7 +107,6 @@ I’m a **3rd-year undergraduate student** who loves programming and the thrill 
 
 <br/>
 <hr/>
-<br/>
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@knox_codes) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/knoxveyr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Knox_Codes) 
