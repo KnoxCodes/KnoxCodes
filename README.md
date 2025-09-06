@@ -16,7 +16,9 @@
 - ⚡ The excitement of solving challenging problems  
 - 🌱 Continuously learning and experimenting with new tools & frameworks  
 - 🤝 Sharing knowledge and collaborating with the community
-  
+
+</br>
+</br>
 
 # 💻 Tech Stack
 
@@ -72,6 +74,9 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
+</br>
+</br>
+
 
 # 📊 GitHub Stats:
 
@@ -90,6 +95,9 @@
   </tr>
 </table>
 
+
+</br>
+</br>
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@knox_codes) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/knoxveyr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Knox_Codes) 
