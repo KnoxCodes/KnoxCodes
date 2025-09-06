@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Knox
+#  Welcome to my GitHub
 
 <div align="center">
 <img hight="300" width="900" alt="GIF" align="center" src="assets/PixeLɑnd ◇.gif">
@@ -13,7 +13,7 @@
 🚀 Always curious and constantly learning — from building projects to exploring new technologies.  
 📚 I believe in growing every day, one commit at a time.  
 
-## 🌟 What drives me
+## What drives me
 - ⚡ The excitement of solving challenging problems  
 - 🌱 Continuously learning and experimenting with new tools & frameworks  
 - 🤝 Sharing knowledge and collaborating with the community
