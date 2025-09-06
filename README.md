@@ -3,23 +3,35 @@
 <div align="center">
 <img hight="400" width="1200" alt="GIF" align="center" src="assets/PixeLɑnd ◇.gif">
 </div>
----
-</br>
-</br>
 
-## About Me
-💻 I’m a passionate programmer who loves turning ideas into reality through code.  
-🚀 Always curious and constantly learning — from building projects to exploring new technologies.  
-📚 I believe in growing every day, one commit at a time.  
+<br/>
+<hr/>
+<br/>
 
-## What drives me
-- ⚡ The excitement of solving challenging problems  
-- 🌱 Continuously learning and experimenting with new tools & frameworks  
-- 🤝 Sharing knowledge and collaborating with the community
+## 🌌 Who am I?  
 
-</br>
----
-</br>
+I’m a **3rd-year undergraduate student** who loves programming and the thrill of learning something new every day.
+
+🚀 My biggest curiosity lies in **Machine Learning and Deep Learning** - I want to explore every corner of this fascinating field.  
+💡 I enjoy building projects around ideas that spark my imagination, turning *“what if?”* into *“look, it works!”*.  
+🌠 Beyond coding, I’m deeply fascinated by **Philosophy, Physics, Mathematics, History, and Astronomy** - subjects that make me wonder about life, the universe, and everything in between.  
+📖 I love a good story, whether it’s an **anime, movie, web series, or book** - stories inspire how I see the world.  
+🎮 In my free time, you’ll either catch me **gaming** or aimlessly **scrolling through X**.  
+
+
+
+## 🔥 What Drives Me  
+
+- ⚡ The thrill of solving complex problems and turning them into elegant solutions  
+- 🌱 A constant hunger to **learn, experiment, and grow** - every day is a chance to level up  
+- 🛠️ The joy of building projects that start as wild ideas and end as working creations  
+- 🤝 Sharing knowledge, collaborating with others, and being part of a community that inspires me  
+- 🌌 A deep curiosity about the unknown - whether it’s in tech, science, or the universe itself  
+
+
+<br/>
+<hr/>
+<br/>
 
 # 💻 Tech Stack
 
@@ -75,9 +87,9 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
-</br>
----
-</br>
+<br/>
+<hr/>
+<br/>
 
 
 # 📊 GitHub Stats:
@@ -97,15 +109,15 @@
   </tr>
 </table>
 
-
-</br>
----
-</br>
+<br/>
+<hr/>
+<br/>
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@knox_codes) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/knoxveyr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Knox_Codes) 
 
+<hr/>
 
-[![](https://visitcount.itsvg.in/api?id=KnoxCodes&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=KnoxCodes&color=blueviolet&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
