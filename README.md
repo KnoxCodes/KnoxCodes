@@ -1,5 +1,14 @@
-# 👋 Hey there, I'm Knox  
+# 👋 Hey there, I'm Knox
 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/KnoxCodes/KnoxCodes/master/assets/download.gif">
+</div>
+
+</br>
+</br>
+</br>
+
+### About Me
 💻 I’m a passionate programmer who loves turning ideas into reality through code.  
 🚀 Always curious and constantly learning — from building projects to exploring new technologies.  
 📚 I believe in growing every day, one commit at a time.  
